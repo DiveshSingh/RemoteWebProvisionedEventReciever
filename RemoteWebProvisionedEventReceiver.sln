@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteWebProvisionedEventReceiver", "RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver.csproj", "{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteWebProvisionedEventReceiverWeb", "RemoteWebProvisionedEventReceiverWeb\RemoteWebProvisionedEventReceiverWeb.csproj", "{A3A84AB7-4D3B-4E81-AAED-D37F4A971E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6B385C-BD11-4C45-98DE-2ED565CB23C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A3A84AB7-4D3B-4E81-AAED-D37F4A971E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A84AB7-4D3B-4E81-AAED-D37F4A971E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A84AB7-4D3B-4E81-AAED-D37F4A971E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A84AB7-4D3B-4E81-AAED-D37F4A971E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://saidivesh.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RemoteWebProvisionedEventReceiver\\RemoteWebProvisionedEventReceiver.csproj
+		SccProjectName1 = RemoteWebProvisionedEventReceiver
+		SccLocalPath1 = RemoteWebProvisionedEventReceiver
+		SccProjectUniqueName2 = RemoteWebProvisionedEventReceiverWeb\\RemoteWebProvisionedEventReceiverWeb.csproj
+		SccProjectName2 = RemoteWebProvisionedEventReceiverWeb
+		SccLocalPath2 = RemoteWebProvisionedEventReceiverWeb
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\bin\Debug\RemoteWebProvisionedEventReceiver.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\obj\Debug\RemoteWebProvisionedEventReceiver.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RemoteWebProvisionedEventReceiver\RemoteWebProvisionedEventReceiver\obj\Debug\RemoteWebProvisionedEventReceiver.pdb
